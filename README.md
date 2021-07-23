@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/maryojo/3-column-preview-card-component]()
-- Live Site URL: [https://maryojo.github.io/3-column-card-preview-component/]()
+- Live Site URL: [https://maryojo.github.io/3-column-preview-card-component/]()
 
 ## My process
 
