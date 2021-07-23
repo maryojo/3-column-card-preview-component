@@ -66,6 +66,10 @@ I want to keep working on responsiveness and writing cleaner codes. I would also
 - [W3 Schools](https://www.w3schools.com/) - This has always been my go-to website for most challenges I face or code I want to remember
 
 
+## Testing
+I performed accessibility tests on my work using Lighthouse and it gave a 76%.
+
+
 ## Author
 
 <!-- - Website - [Mary Ojo](https://www.your-site.com) -->
